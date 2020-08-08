@@ -15,10 +15,10 @@ router.get('/protected',requireLogin,(req,res)=>{
 	res.send("hello user")
 })
 
-router.get('/',(req,res)=>{
-	console.log("auths")
-	res.send("Hello")
-})
+// router.get('/',(req,res)=>{
+// 	console.log("auths")
+// 	res.send("Hello")
+// })
 
 router.post('/signup',(req,res)=>{
 
