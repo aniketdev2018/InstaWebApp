@@ -10,7 +10,7 @@ const Footer = () => {
     <footer class="page-footer" >
           <div class="container" >
             <div class="row" >
-              <div class="col 16 s18" style={{margin:"0px 200px 0px 200px"}}>
+              <div class="col 16 s18" style={{margin:"0px 50px"}}>
                 <p class="white-text text-lighten-4">For any queries please mail us at 
                  <a class="black-text text-darken-4" href="mailto:devaniket12345@gmail.com"><strong> devaniket12345@gmail.com</strong></a>
                  
@@ -34,7 +34,7 @@ const Footer = () => {
           </div>
           <div class="footer-copyright"  >
             <div class="container" >
-              <p style={{margin:"0px 200px 0px 200px", color:"#000000"}}>
+              <p style={{margin:"0px 100px", color:"#000000"}}>
              © 2020, Aniket.
          </p>
             </div>
