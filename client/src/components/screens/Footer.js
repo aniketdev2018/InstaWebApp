@@ -12,7 +12,7 @@ const Footer = () => {
             <div class="row" >
               <div class="col 16 s18" style={{margin:"0px 50px"}}>
                 <p class="white-text text-lighten-4">For any queries please mail us at 
-                 <a class="black-text text-darken-4" href="mailto:devaniket12345@gmail.com"><strong> devaniket12345@gmail.com</strong></a>
+                 <a class="black-text text-darken-4" href="mailto:devaniket12345@gmail.com" target="_blank"><strong> devaniket12345@gmail.com</strong></a>
                  
                  </p>
              
@@ -20,11 +20,11 @@ const Footer = () => {
                 
            
 
-                <i> <SocialIcon url="http://instagram.com/im_aniket_ch" /> </i>
+                <i> <SocialIcon url="http://instagram.com/im_aniket_ch" target="_blank" /> </i>
 
-               <i> <SocialIcon url="https://www.youtube.com/channel/UCCYZdArRuSj3-Tro9I3JL9g" /></i>
-               <i> <SocialIcon url="http://github.com/aniketdev2018" /> </i>
-              <i>  <SocialIcon url="http://facebook.com/aniket3552" /> </i>
+               <i> <SocialIcon url="https://www.youtube.com/channel/UCCYZdArRuSj3-Tro9I3JL9g" target="_blank" /></i>
+               <i> <SocialIcon url="http://github.com/aniketdev2018" target="_blank" /> </i>
+              <i>  <SocialIcon url="http://facebook.com/aniket3552" target="_blank" /> </i>
               
                  
 
