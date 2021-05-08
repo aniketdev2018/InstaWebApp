@@ -35,7 +35,7 @@ const Footer = () => {
           <div class="footer-copyright"  >
             <div class="container" >
               <p style={{margin:"0px 100px", color:"#000000"}}>
-                &copy 2021, Aniket.
+                &copy; 2021, Aniket.
          </p>
             </div>
           </div>
