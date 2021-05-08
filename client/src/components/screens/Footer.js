@@ -35,7 +35,7 @@ const Footer = () => {
           <div class="footer-copyright"  >
             <div class="container" >
               <p style={{margin:"0px 100px", color:"#000000"}}>
-             © 2020, Aniket.
+             &c 2021, Aniket.
          </p>
             </div>
           </div>
